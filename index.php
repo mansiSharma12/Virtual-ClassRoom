@@ -14,7 +14,7 @@
 </head>
 
 <body>
-    <!-- Header hello mansi -->
+    <!-- Header-->
     <div class="ui top fixed menu " >
         <div class="item " >
             <img style="width:4.5em" class="logo-img " src="images/logo.png">
